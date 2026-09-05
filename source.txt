@@ -1,0 +1,7 @@
+Replace this file with notes, old SOP text, or a transcript.
+
+Example:
+Machine: Fresenius 2008T
+Pre-treatment checks include conductivity and temperature.
+Alarm limits are on the posted card — do not invent the numbers.
+Training required before independent operation.
